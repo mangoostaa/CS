@@ -1,0 +1,2243 @@
+{
+  "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2.glb",
+  "sourceSha256": "2f45280b45870825b6cc9d923e120bbd8c55dbb7c8f415c92b695a2016d7f52f",
+  "meshObjects": 39,
+  "meshParts": 79,
+  "triangles": 9932,
+  "vertices": 13785,
+  "metersPerStud": 0.28,
+  "boundsMeters": {
+    "min": [
+      -65.02400207519531,
+      -4.876800060272217,
+      -95.910400390625
+    ],
+    "max": [
+      48.76799774169922,
+      10.566399574279785,
+      39.014400482177734
+    ]
+  },
+  "offsetStuds": [
+    29.028579166957307,
+    17.467143072400773,
+    101.59999983651296
+  ],
+  "images": [
+    {
+      "index": 0,
+      "name": "SandTrim",
+      "file": "00-SandTrim.png",
+      "url": "http://127.0.0.1:8765/textures/00-SandTrim.png",
+      "sha256": "781f6539e14ca87bd5eeaf9ff32dfbd55154090086b836a4187b63111e897a2a"
+    },
+    {
+      "index": 1,
+      "name": "-0csSandWall",
+      "file": "01--0csSandWall.png",
+      "url": "http://127.0.0.1:8765/textures/01--0csSandWall.png",
+      "sha256": "091b4fb80b7cd8a1b3e3e58499d7b2c26e49a62ea6ffbf1d8278823479bce5e8"
+    },
+    {
+      "index": 2,
+      "name": "SandCrtSmSd",
+      "file": "02-SandCrtSmSd.png",
+      "url": "http://127.0.0.1:8765/textures/02-SandCrtSmSd.png",
+      "sha256": "feec7e01e3bb89a61e632013b2fb80251e594b85a0815228f2edcb3f5d960cd0"
+    },
+    {
+      "index": 3,
+      "name": "white",
+      "file": "03-white.png",
+      "url": "http://127.0.0.1:8765/textures/03-white.png",
+      "sha256": "bca39d8ba477b3fbb6962bb4a74398d18eaf1b249adc920ee300ac4e4968f832"
+    },
+    {
+      "index": 4,
+      "name": "SandWllWndw",
+      "file": "04-SandWllWndw.png",
+      "url": "http://127.0.0.1:8765/textures/04-SandWllWndw.png",
+      "sha256": "01dda0c317839b71457baeb413c4b29deb3e25173e2bea441cfb16e38f42362c"
+    },
+    {
+      "index": 5,
+      "name": "SandRoad",
+      "file": "05-SandRoad.png",
+      "url": "http://127.0.0.1:8765/textures/05-SandRoad.png",
+      "sha256": "aa7e6258e044d6ac778fd565ed60b54a1dcffdb76f4b7e771cabe4115411618d"
+    },
+    {
+      "index": 6,
+      "name": "-0Sand",
+      "file": "06--0Sand.png",
+      "url": "http://127.0.0.1:8765/textures/06--0Sand.png",
+      "sha256": "d8f1ae58889392db25a8e637d771f07d4b4c0b2460a99577479d959134d37fbc"
+    },
+    {
+      "index": 7,
+      "name": "SandWllDoor",
+      "file": "07-SandWllDoor.png",
+      "url": "http://127.0.0.1:8765/textures/07-SandWllDoor.png",
+      "sha256": "084eaa0d2855d833ea4ea8c27b23038b622d6b3fa8fd61cebff1ab2efe53aa6c"
+    },
+    {
+      "index": 8,
+      "name": "csSandWallDJ1",
+      "file": "08-csSandWallDJ1.png",
+      "url": "http://127.0.0.1:8765/textures/08-csSandWallDJ1.png",
+      "sha256": "c2a3e3b487ab5b7d79e5bd99583193813a5cb9227f7207390ed7ab600a4a8d94"
+    },
+    {
+      "index": 9,
+      "name": "SandCrtSmTp",
+      "file": "09-SandCrtSmTp.png",
+      "url": "http://127.0.0.1:8765/textures/09-SandCrtSmTp.png",
+      "sha256": "2966912f965770c0b7438f4d9901aeed7087f59373ff26bdb37e51d0699d5609"
+    },
+    {
+      "index": 10,
+      "name": "SandCCrete",
+      "file": "10-SandCCrete.png",
+      "url": "http://127.0.0.1:8765/textures/10-SandCCrete.png",
+      "sha256": "5388f46a6b8371dd4242f2e2b097379c3b0cc505c1fce0764d3461a1e455d4ff"
+    },
+    {
+      "index": 11,
+      "name": "-0SandRock2",
+      "file": "11--0SandRock2.png",
+      "url": "http://127.0.0.1:8765/textures/11--0SandRock2.png",
+      "sha256": "6450e1c79f7d04e41d6921270901df34857b769ee8915b1e68948f0d1b9f8a89"
+    },
+    {
+      "index": 12,
+      "name": "SandCrtLrgSd",
+      "file": "12-SandCrtLrgSd.png",
+      "url": "http://127.0.0.1:8765/textures/12-SandCrtLrgSd.png",
+      "sha256": "904454b2919bdb7e074f0130b68d1e1063ff5733bebcb0fb535f37ec482a83e8"
+    },
+    {
+      "index": 13,
+      "name": "csSandWallGH1a",
+      "file": "13-csSandWallGH1a.png",
+      "url": "http://127.0.0.1:8765/textures/13-csSandWallGH1a.png",
+      "sha256": "2acfe465ce987d5abf7b4c0898fcc1f666225e77c047452052220d9865a0c06a"
+    },
+    {
+      "index": 14,
+      "name": "csSandWallGH1b",
+      "file": "14-csSandWallGH1b.png",
+      "url": "http://127.0.0.1:8765/textures/14-csSandWallGH1b.png",
+      "sha256": "40e05cf194d67055f79fe5efc55d756a226c7cc26845d8501596087cad09859f"
+    },
+    {
+      "index": 15,
+      "name": "SandCCrete2",
+      "file": "15-SandCCrete2.png",
+      "url": "http://127.0.0.1:8765/textures/15-SandCCrete2.png",
+      "sha256": "e45245c31b83627dbd626c04c25e65310ac35c7392bc58fc6723a880425d9d44"
+    },
+    {
+      "index": 16,
+      "name": "csSandWallBTA",
+      "file": "16-csSandWallBTA.png",
+      "url": "http://127.0.0.1:8765/textures/16-csSandWallBTA.png",
+      "sha256": "2e94ecc4304a888bdaf902edc4f80c3ace111ff4aa62a1a63f00da85fb4ec1d8"
+    },
+    {
+      "index": 17,
+      "name": "SandCrtLrgTp",
+      "file": "17-SandCrtLrgTp.png",
+      "url": "http://127.0.0.1:8765/textures/17-SandCrtLrgTp.png",
+      "sha256": "b32669514a9bfd49540f74b2f78e6c1353772262d01306beb04b0c182b551f84"
+    },
+    {
+      "index": 18,
+      "name": "black",
+      "file": "18-black.png",
+      "url": "http://127.0.0.1:8765/textures/18-black.png",
+      "sha256": "3ca197dd2db6eec8763db0e2b8c0cf10d9965a49dad142b598f2c81200fd072a"
+    },
+    {
+      "index": 19,
+      "name": "djCredit1",
+      "file": "19-djCredit1.png",
+      "url": "http://127.0.0.1:8765/textures/19-djCredit1.png",
+      "sha256": "7f63f6d3ab9bc500d6fc8fbd23bb4fb944cf628de95ee9102451209dc82a88e2"
+    },
+    {
+      "index": 20,
+      "name": "MltryCrteSd",
+      "file": "20-MltryCrteSd.png",
+      "url": "http://127.0.0.1:8765/textures/20-MltryCrteSd.png",
+      "sha256": "723fbdbc059cd49355a692a941f60829c8630e6e9bf2cb7dee3564f9528eab6d"
+    },
+    {
+      "index": 21,
+      "name": "MltryCrteTp",
+      "file": "21-MltryCrteTp.png",
+      "url": "http://127.0.0.1:8765/textures/21-MltryCrteTp.png",
+      "sha256": "8a2c166a00dcc498ad03fa74f4b2df35e2a23bba7a45041eab7070d0905a48bc"
+    },
+    {
+      "index": 22,
+      "name": "-2Sand",
+      "file": "22--2Sand.png",
+      "url": "http://127.0.0.1:8765/textures/22--2Sand.png",
+      "sha256": "1d607004e7cea7be26139d6c5175bb73f61779fff52f28ff26c7c3aba2b54d4a"
+    },
+    {
+      "index": 23,
+      "name": "SandWllDoorDJ1",
+      "file": "23-SandWllDoorDJ1.png",
+      "url": "http://127.0.0.1:8765/textures/23-SandWllDoorDJ1.png",
+      "sha256": "31259a65121a8df11ff4d00d57e05e81afa9fb07b43e13217f09f2827d9e7041"
+    },
+    {
+      "index": 24,
+      "name": "djCredit2",
+      "file": "24-djCredit2.png",
+      "url": "http://127.0.0.1:8765/textures/24-djCredit2.png",
+      "sha256": "7bb1cab2ff9cb9c65af6f8e7242738b9f8a2b66bf10c3a5fd63d2293d20d54dc"
+    },
+    {
+      "index": 25,
+      "name": "SandRoadTgtB",
+      "file": "25-SandRoadTgtB.png",
+      "url": "http://127.0.0.1:8765/textures/25-SandRoadTgtB.png",
+      "sha256": "23ed23a2ed71c7e97dcd32c8c0553b10fc18554125be1b8e27919c46d38f55cb"
+    },
+    {
+      "index": 26,
+      "name": "SandWllDoorBTb",
+      "file": "26-SandWllDoorBTb.png",
+      "url": "http://127.0.0.1:8765/textures/26-SandWllDoorBTb.png",
+      "sha256": "ee8bd31a40ed0e0254e773ffdcfb280cc8037b0aaf3487ba6c8d072ffe25ba53"
+    },
+    {
+      "index": 27,
+      "name": "csSandWallBTB",
+      "file": "27-csSandWallBTB.png",
+      "url": "http://127.0.0.1:8765/textures/27-csSandWallBTB.png",
+      "sha256": "1e036d25495966c02faa7709989c083e9dbddf32da4f0615d3cce2084e7a3946"
+    },
+    {
+      "index": 28,
+      "name": "SandWllDoorDJ2",
+      "file": "28-SandWllDoorDJ2.png",
+      "url": "http://127.0.0.1:8765/textures/28-SandWllDoorDJ2.png",
+      "sha256": "a6165916fa94629db7648e0a2baa284e6cc70ca8945ee3fc14b52d835903779b"
+    },
+    {
+      "index": 29,
+      "name": "SandWllDoorBTA",
+      "file": "29-SandWllDoorBTA.png",
+      "url": "http://127.0.0.1:8765/textures/29-SandWllDoorBTA.png",
+      "sha256": "3c35b3cd27cc5ce5900c468b58a0b46753ddd73e9272a58b55bec8ad37e66e5e"
+    },
+    {
+      "index": 30,
+      "name": "SandWllDoor2",
+      "file": "30-SandWllDoor2.png",
+      "url": "http://127.0.0.1:8765/textures/30-SandWllDoor2.png",
+      "sha256": "cc21f6b8e3d4a38144144f87ef382a4250db13508d9fd0638d4a82ce2a43867f"
+    },
+    {
+      "index": 31,
+      "name": "MltryCrteSd2",
+      "file": "31-MltryCrteSd2.png",
+      "url": "http://127.0.0.1:8765/textures/31-MltryCrteSd2.png",
+      "sha256": "b882b36aca670f0808bba8a2dcb4920431eaaaed943b2c01411cdc9e2662d7e5"
+    },
+    {
+      "index": 32,
+      "name": "generic011",
+      "file": "32-generic011.png",
+      "url": "http://127.0.0.1:8765/textures/32-generic011.png",
+      "sha256": "711c13d71cb2151e263947e0d6f3c009ab699cffb17560d59a3064c01d52dd13"
+    },
+    {
+      "index": 33,
+      "name": "+0~fifties_lgt2",
+      "file": "33-+0~fifties_lgt2.png",
+      "url": "http://127.0.0.1:8765/textures/33-%2B0~fifties_lgt2.png",
+      "sha256": "c67713c6a8b93c10fd9859dd4f73f9646cf51d56c014c1b045c15e96930a66e7"
+    }
+  ],
+  "parts": [
+    {
+      "index": 0,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 0,
+      "material": 0,
+      "materialName": "SANDTRIM",
+      "imageIndex": 0,
+      "centerMeters": [
+        -8.128002166748047,
+        2.844799757003784,
+        -28.447999954223633
+      ],
+      "triangleCount": 2120,
+      "size": [
+        406.39999934605186,
+        55.15428440911429,
+        481.87428883143826
+      ],
+      "position": [
+        0.0,
+        27.627142204557146,
+        0.0
+      ]
+    },
+    {
+      "index": 1,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 1,
+      "material": 1,
+      "materialName": "-0CSSANDWALL",
+      "imageIndex": 1,
+      "centerMeters": [
+        -8.128002166748047,
+        2.4384000301361084,
+        -27.431997299194336
+      ],
+      "triangleCount": 3726,
+      "size": [
+        406.39999934605186,
+        52.251429217202315,
+        474.61712700980047
+      ],
+      "position": [
+        0.0,
+        26.17571460860116,
+        3.6285809108189113
+      ]
+    },
+    {
+      "index": 2,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 2,
+      "material": 2,
+      "materialName": "SANDCRTSMSD",
+      "imageIndex": 2,
+      "centerMeters": [
+        -4.063999176025391,
+        0.8127999305725098,
+        -34.950400829315186
+      ],
+      "triangleCount": 228,
+      "size": [
+        354.14856501988,
+        40.639999934605186,
+        342.53714765821184
+      ],
+      "position": [
+        14.514296395438055,
+        20.369999967302594,
+        -23.22286026818412
+      ]
+    },
+    {
+      "index": 3,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 3,
+      "material": 3,
+      "materialName": "WHITE",
+      "imageIndex": 3,
+      "centerMeters": [
+        -11.379199981689453,
+        1.625599980354309,
+        -87.78239822387695
+      ],
+      "triangleCount": 22,
+      "size": [
+        11.611427579607282,
+        11.611428431102206,
+        23.222868783133368
+      ],
+      "position": [
+        -11.611420767647878,
+        23.272857287951876,
+        -211.90856524876187
+      ]
+    },
+    {
+      "index": 4,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 4,
+      "material": 4,
+      "materialName": "SANDWLLWNDW",
+      "imageIndex": 4,
+      "centerMeters": [
+        -5.689599990844727,
+        3.2512000799179077,
+        -33.731201171875
+      ],
+      "triangleCount": 174,
+      "size": [
+        365.7599994114467,
+        46.44571457590375,
+        420.9142957414899
+      ],
+      "position": [
+        8.708579199654714,
+        29.078571929250444,
+        -18.868575777326313
+      ]
+    },
+    {
+      "index": 5,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 5,
+      "material": 5,
+      "materialName": "SANDROAD",
+      "imageIndex": 5,
+      "centerMeters": [
+        -9.143999099731445,
+        -0.8128000497817993,
+        -28.583507537841797
+      ],
+      "triangleCount": 662,
+      "size": [
+        343.9885684422084,
+        29.02857150350298,
+        366.727910723005
+      ],
+      "position": [
+        -3.6285604749407057,
+        14.564285751751491,
+        -0.48395565577915534
+      ]
+    },
+    {
+      "index": 6,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 6,
+      "material": 6,
+      "materialName": "-0SAND",
+      "imageIndex": 6,
+      "centerMeters": [
+        -4.26872444152832,
+        -0.6096000671386719,
+        -40.538399964571
+      ],
+      "triangleCount": 320,
+      "size": [
+        355.6108883449009,
+        30.47999995095389,
+        283.7542855313846
+      ],
+      "position": [
+        13.783134732927593,
+        15.289999975476945,
+        -43.180000036954866
+      ]
+    },
+    {
+      "index": 7,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 7,
+      "material": 7,
+      "materialName": "SANDWLLDOOR",
+      "imageIndex": 7,
+      "centerMeters": [
+        -7.518400192260742,
+        1.2191998958587646,
+        -28.244797706604004
+      ],
+      "triangleCount": 135,
+      "size": [
+        332.3771476745605,
+        43.54285682950701,
+        358.50284440176824
+      ],
+      "position": [
+        2.17714990888323,
+        21.821428414753505,
+        0.7257223129272461
+      ]
+    },
+    {
+      "index": 8,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 8,
+      "material": 8,
+      "materialName": "CSSANDWALLDJ1",
+      "imageIndex": 8,
+      "centerMeters": [
+        26.009599685668945,
+        5.689600110054016,
+        -74.7775993347168
+      ],
+      "triangleCount": 5,
+      "size": [
+        0.001,
+        17.417143923895697,
+        23.222868783133368
+      ],
+      "position": [
+        121.92000661577495,
+        37.787143465450825,
+        -165.46285493033275
+      ]
+    },
+    {
+      "index": 9,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 9,
+      "material": 9,
+      "materialName": "SANDCRTSMTP",
+      "imageIndex": 9,
+      "centerMeters": [
+        -4.063999176025391,
+        1.625599980354309,
+        -34.950400829315186
+      ],
+      "triangleCount": 81,
+      "size": [
+        354.14856501988,
+        34.83428529330662,
+        342.53714765821184
+      ],
+      "position": [
+        14.514296395438055,
+        23.272857287951876,
+        -23.22286026818412
+      ]
+    },
+    {
+      "index": 10,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 10,
+      "material": 10,
+      "materialName": "SANDCCRETE",
+      "imageIndex": 10,
+      "centerMeters": [
+        -9.55040168762207,
+        3.047999858856201,
+        -33.32480049133301
+      ],
+      "triangleCount": 796,
+      "size": [
+        396.24000276838024,
+        42.09142753056117,
+        447.03999928065707
+      ],
+      "position": [
+        -5.079998288835796,
+        28.352856854030062,
+        -17.417144775390625
+      ]
+    },
+    {
+      "index": 11,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 11,
+      "material": 11,
+      "materialName": "-0SANDROCK2",
+      "imageIndex": 11,
+      "centerMeters": [
+        -28.447999715805054,
+        3.5560001134872437,
+        -65.02400016784668
+      ],
+      "triangleCount": 280,
+      "size": [
+        249.6457116944449,
+        44.26857147897992,
+        185.7828548976353
+      ],
+      "position": [
+        -72.57141981806072,
+        30.167143477712358,
+        -130.6285721915109
+      ]
+    },
+    {
+      "index": 12,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 12,
+      "material": 12,
+      "materialName": "SANDCRTLRGSD",
+      "imageIndex": 12,
+      "centerMeters": [
+        -4.876800537109375,
+        1.625599980354309,
+        -33.32480049133301
+      ],
+      "triangleCount": 242,
+      "size": [
+        359.95428902762274,
+        34.83428529330662,
+        354.14857864379877
+      ],
+      "position": [
+        11.611434391566682,
+        23.272857287951876,
+        -17.417144775390625
+      ]
+    },
+    {
+      "index": 13,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 13,
+      "material": 13,
+      "materialName": "CSSANDWALLGH1A",
+      "imageIndex": 13,
+      "centerMeters": [
+        -0.6096000671386719,
+        5.689599990844727,
+        -38.20159912109375
+      ],
+      "triangleCount": 7,
+      "size": [
+        329.47428567068914,
+        14.514286177498953,
+        145.14285496303012
+      ],
+      "position": [
+        26.85143607003348,
+        37.787143039703366,
+        -34.83428273882184
+      ]
+    },
+    {
+      "index": 14,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 14,
+      "material": 14,
+      "materialName": "CSSANDWALLGH1B",
+      "imageIndex": 14,
+      "centerMeters": [
+        2.0319995880126953,
+        5.689599990844727,
+        -34.95039939880371
+      ],
+      "triangleCount": 8,
+      "size": [
+        310.6057167053222,
+        14.514286177498953,
+        121.91999980381556
+      ],
+      "position": [
+        36.28572055271693,
+        37.787143039703366,
+        -23.22285515921456
+      ]
+    },
+    {
+      "index": 15,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 15,
+      "material": 15,
+      "materialName": "SANDCCRETE2",
+      "imageIndex": 15,
+      "centerMeters": [
+        29.260799407958984,
+        2.4384000301361084,
+        -61.36639976501465
+      ],
+      "triangleCount": 3,
+      "size": [
+        17.417144775390625,
+        0.001,
+        14.514282771519252
+      ],
+      "position": [
+        133.53143419538225,
+        26.17571460860116,
+        -117.56571360996791
+      ]
+    },
+    {
+      "index": 16,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 16,
+      "material": 16,
+      "materialName": "CSSANDWALLBTA",
+      "imageIndex": 16,
+      "centerMeters": [
+        26.822399616241455,
+        4.064000129699707,
+        -37.3887996673584
+      ],
+      "triangleCount": 12,
+      "size": [
+        98.6971412386213,
+        29.028572354997905,
+        11.611434391566684
+      ],
+      "position": [
+        124.82286351067677,
+        31.981429249899726,
+        -31.931427546909887
+      ]
+    },
+    {
+      "index": 17,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 17,
+      "material": 17,
+      "materialName": "SANDCRTLRGTP",
+      "imageIndex": 17,
+      "centerMeters": [
+        -4.876800537109375,
+        2.844799965620041,
+        -33.32480049133301
+      ],
+      "triangleCount": 91,
+      "size": [
+        359.95428902762274,
+        26.125713969979966,
+        354.14857864379877
+      ],
+      "position": [
+        11.611434391566682,
+        27.627142949615205,
+        -17.417144775390625
+      ]
+    },
+    {
+      "index": 18,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 18,
+      "material": 18,
+      "materialName": "BLACK",
+      "imageIndex": 18,
+      "centerMeters": [
+        9.753600120544434,
+        -0.8128000199794769,
+        -51.15559959411621
+      ],
+      "triangleCount": 14,
+      "size": [
+        11.611427579607282,
+        11.611428643975938,
+        0.36284582955496647
+      ],
+      "position": [
+        63.86286531175885,
+        14.564285858188356,
+        -81.09857014247349
+      ]
+    },
+    {
+      "index": 19,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 19,
+      "material": 19,
+      "materialName": "DJCREDIT1",
+      "imageIndex": 19,
+      "centerMeters": [
+        9.753600120544434,
+        -0.8128000199794769,
+        -51.206398010253906
+      ],
+      "triangleCount": 8,
+      "size": [
+        11.611427579607282,
+        11.611428643975938,
+        0.001
+      ],
+      "position": [
+        63.86286531175885,
+        14.564285858188356,
+        -81.27999305725096
+      ]
+    },
+    {
+      "index": 20,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 20,
+      "material": 20,
+      "materialName": "MLTRYCRTESD",
+      "imageIndex": 20,
+      "centerMeters": [
+        -13.207999467849731,
+        0.0,
+        -35.763200998306274
+      ],
+      "triangleCount": 51,
+      "size": [
+        79.82856716428483,
+        23.222856862204413,
+        209.00572197777882
+      ],
+      "position": [
+        -18.14284750393459,
+        17.467143072400773,
+        -26.125718014580855
+      ]
+    },
+    {
+      "index": 21,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 21,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        -13.207999467849731,
+        0.8127999901771545,
+        -35.763200998306274
+      ],
+      "triangleCount": 18,
+      "size": [
+        79.82856716428483,
+        17.41714264665331,
+        209.00572197777882
+      ],
+      "position": [
+        -18.14284750393459,
+        20.370000180176326,
+        -26.125718014580855
+      ]
+    },
+    {
+      "index": 22,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 22,
+      "material": 22,
+      "materialName": "-2SAND",
+      "imageIndex": 22,
+      "centerMeters": [
+        -21.945600032806396,
+        2.0320000648498535,
+        -9.753600120544434
+      ],
+      "triangleCount": 380,
+      "size": [
+        249.64571339743475,
+        14.514286177498953,
+        255.4514271872384
+      ],
+      "position": [
+        -49.34856380735125,
+        24.72428616115025,
+        66.76571369171143
+      ]
+    },
+    {
+      "index": 23,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 23,
+      "material": 23,
+      "materialName": "SANDWLLDOORDJ1",
+      "imageIndex": 23,
+      "centerMeters": [
+        -14.020799398422241,
+        0.40640008449554443,
+        -24.447499752044678
+      ],
+      "triangleCount": 32,
+      "size": [
+        155.30285324369157,
+        26.125714608601157,
+        122.37357071467807
+      ],
+      "position": [
+        -21.045704398836406,
+        18.918571945599147,
+        14.28750072206769
+      ]
+    },
+    {
+      "index": 24,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 24,
+      "material": 24,
+      "materialName": "DJCREDIT2",
+      "imageIndex": 24,
+      "centerMeters": [
+        -13.004799842834473,
+        1.625599980354309,
+        -87.78239822387695
+      ],
+      "triangleCount": 6,
+      "size": [
+        0.001,
+        11.611428431102206,
+        23.222868783133368
+      ],
+      "position": [
+        -17.41713455745152,
+        23.272857287951876,
+        -211.90856524876187
+      ]
+    },
+    {
+      "index": 25,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 25,
+      "material": 25,
+      "materialName": "SANDROADTGTB",
+      "imageIndex": 25,
+      "centerMeters": [
+        -40.63999938964844,
+        0.0,
+        -68.27519989013672
+      ],
+      "triangleCount": 12,
+      "size": [
+        23.222868783133368,
+        0.001,
+        23.222841535295757
+      ],
+      "position": [
+        -116.1142757960728,
+        17.467143072400773,
+        -142.23999977111816
+      ]
+    },
+    {
+      "index": 26,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 26,
+      "material": 26,
+      "materialName": "SANDWLLDOORBTB",
+      "imageIndex": 26,
+      "centerMeters": [
+        -33.74389839172363,
+        2.0128231048583984,
+        -56.5911979675293
+      ],
+      "triangleCount": 5,
+      "size": [
+        3.719288962227957,
+        14.377307891845701,
+        7.982853480747767
+      ],
+      "position": [
+        -91.48534366062708,
+        24.655797018323625,
+        -100.51142147609166
+      ]
+    },
+    {
+      "index": 27,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 27,
+      "material": 27,
+      "materialName": "CSSANDWALLBTB",
+      "imageIndex": 27,
+      "centerMeters": [
+        -52.01919937133789,
+        2.8448000252246857,
+        -39.0143985748291
+      ],
+      "triangleCount": 4,
+      "size": [
+        0.001,
+        14.514285964625222,
+        11.611434391566684
+      ],
+      "position": [
+        -156.754275730678,
+        27.627143162488935,
+        -37.73713793073382
+      ]
+    },
+    {
+      "index": 28,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 28,
+      "material": 28,
+      "materialName": "SANDWLLDOORDJ2",
+      "imageIndex": 28,
+      "centerMeters": [
+        24.790399312973022,
+        2.641600027680397,
+        -5.486400127410889
+      ],
+      "triangleCount": 18,
+      "size": [
+        150.94856704984392,
+        15.965714518512996,
+        71.11999988555908
+      ],
+      "position": [
+        117.56571957043238,
+        26.901428885545048,
+        82.00571366718836
+      ]
+    },
+    {
+      "index": 29,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 29,
+      "material": 29,
+      "materialName": "SANDWLLDOORBTA",
+      "imageIndex": 29,
+      "centerMeters": [
+        14.935199737548828,
+        2.0128231048583984,
+        -7.734299898147583
+      ],
+      "triangleCount": 5,
+      "size": [
+        7.982853480747767,
+        14.377307891845701,
+        3.7192872592381065
+      ],
+      "position": [
+        82.36857822963168,
+        24.655797018323625,
+        73.9775002002716
+      ]
+    },
+    {
+      "index": 30,
+      "nodeName": "de_dust2_world_geometry",
+      "meshName": "de_dust2_world_geometry_mesh",
+      "primitive": 30,
+      "material": 30,
+      "materialName": "SANDWLLDOOR2",
+      "imageIndex": 30,
+      "centerMeters": [
+        -57.302398681640625,
+        5.283199906349182,
+        19.507200241088867
+      ],
+      "triangleCount": 11,
+      "size": [
+        0.001,
+        14.514285326004027,
+        17.417144775390625
+      ],
+      "position": [
+        -175.6228446960449,
+        36.33571416650499,
+        171.26857212611606
+      ]
+    },
+    {
+      "index": 31,
+      "nodeName": "tgt_b",
+      "meshName": "tgt_b_mesh",
+      "primitive": 0,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        -35.76319885253906,
+        0.8127999901771545,
+        -66.64960098266602
+      ],
+      "triangleCount": 8,
+      "size": [
+        11.611420767647878,
+        5.805714215551103,
+        5.805724007742745
+      ],
+      "position": [
+        -98.69713102068218,
+        20.370000180176326,
+        -136.4342893872942
+      ]
+    },
+    {
+      "index": 32,
+      "nodeName": "tgt_b",
+      "meshName": "tgt_b_mesh",
+      "primitive": 1,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        -35.76319885253906,
+        0.8127999901771545,
+        -66.64960098266602
+      ],
+      "triangleCount": 4,
+      "size": [
+        11.611420767647878,
+        5.805714215551103,
+        5.805724007742745
+      ],
+      "position": [
+        -98.69713102068218,
+        20.370000180176326,
+        -136.4342893872942
+      ]
+    },
+    {
+      "index": 33,
+      "nodeName": "tgt_b.001",
+      "meshName": "tgt_b_mesh.001",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        -34.95039939880371,
+        1.625599980354309,
+        -68.27519989013672
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        11.611428431102206,
+        5.805696759905134
+      ],
+      "position": [
+        -95.79427582877022,
+        23.272857287951876,
+        -142.23999977111816
+      ]
+    },
+    {
+      "index": 34,
+      "nodeName": "tgt_b.001",
+      "meshName": "tgt_b_mesh.001",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        -34.95039939880371,
+        1.625599980354309,
+        -68.27519989013672
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        11.611428431102206,
+        5.805696759905134
+      ],
+      "position": [
+        -95.79427582877022,
+        23.272857287951876,
+        -142.23999977111816
+      ]
+    },
+    {
+      "index": 35,
+      "nodeName": "tgt_b.002",
+      "meshName": "tgt_b_mesh.002",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        -42.77359962463379,
+        0.8127999901771545,
+        -72.21219635009766
+      ],
+      "triangleCount": 4,
+      "size": [
+        7.982867104666573,
+        5.805714215551103,
+        7.982853480747767
+      ],
+      "position": [
+        -123.7342766353062,
+        20.370000180176326,
+        -156.30070141383578
+      ]
+    },
+    {
+      "index": 36,
+      "nodeName": "tgt_b.002",
+      "meshName": "tgt_b_mesh.002",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        -42.77359962463379,
+        0.8127999901771545,
+        -72.21219635009766
+      ],
+      "triangleCount": 8,
+      "size": [
+        7.982867104666573,
+        5.805714215551103,
+        7.982853480747767
+      ],
+      "position": [
+        -123.7342766353062,
+        20.370000180176326,
+        -156.30070141383578
+      ]
+    },
+    {
+      "index": 37,
+      "nodeName": "tgt_b.003",
+      "meshName": "tgt_b_mesh.003",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        -41.45279884338379,
+        1.625599980354309,
+        -64.61759757995605
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        11.611428431102206,
+        5.805710383823939
+      ],
+      "position": [
+        -119.01713098798479,
+        23.272857287951876,
+        -129.1771343776158
+      ]
+    },
+    {
+      "index": 38,
+      "nodeName": "tgt_b.003",
+      "meshName": "tgt_b_mesh.003",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        -41.45279884338379,
+        1.625599980354309,
+        -64.61759757995605
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        11.611428431102206,
+        5.805710383823939
+      ],
+      "position": [
+        -119.01713098798479,
+        23.272857287951876,
+        -129.1771343776158
+      ]
+    },
+    {
+      "index": 39,
+      "nodeName": "tgt_b.004",
+      "meshName": "tgt_b_mesh.004",
+      "primitive": 0,
+      "material": 2,
+      "materialName": "SANDCRTSMSD",
+      "imageIndex": 2,
+      "centerMeters": [
+        -34.74720001220703,
+        2.235199987888336,
+        -66.85280227661133
+      ],
+      "triangleCount": 8,
+      "size": [
+        4.354286193847656,
+        4.354285768100193,
+        4.354286193847656
+      ],
+      "position": [
+        -95.06856373378207,
+        25.450000172001975,
+        -137.16000829424178
+      ]
+    },
+    {
+      "index": 40,
+      "nodeName": "tgt_b.004",
+      "meshName": "tgt_b_mesh.004",
+      "primitive": 1,
+      "material": 9,
+      "materialName": "SANDCRTSMTP",
+      "imageIndex": 9,
+      "centerMeters": [
+        -34.74720001220703,
+        2.235199987888336,
+        -66.85280227661133
+      ],
+      "triangleCount": 4,
+      "size": [
+        4.354286193847656,
+        4.354285768100193,
+        4.354286193847656
+      ],
+      "position": [
+        -95.06856373378207,
+        25.450000172001975,
+        -137.16000829424178
+      ]
+    },
+    {
+      "index": 41,
+      "nodeName": "tgt_a",
+      "meshName": "tgt_a_mesh",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        27.22879981994629,
+        4.876800060272217,
+        -60.147199630737305
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        5.805713789803641,
+        5.805710383823939
+      ],
+      "position": [
+        126.27429280962261,
+        34.88428614480155,
+        -113.21142741612026
+      ]
+    },
+    {
+      "index": 42,
+      "nodeName": "tgt_a",
+      "meshName": "tgt_a_mesh",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        27.22879981994629,
+        4.876800060272217,
+        -60.147199630737305
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        5.805713789803641,
+        5.805710383823939
+      ],
+      "position": [
+        126.27429280962261,
+        34.88428614480155,
+        -113.21142741612026
+      ]
+    },
+    {
+      "index": 43,
+      "nodeName": "tgt_a.001",
+      "meshName": "tgt_a_mesh.001",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        27.432000160217285,
+        3.2512000799179077,
+        -61.56959915161133
+      ],
+      "triangleCount": 4,
+      "size": [
+        7.07571165902274,
+        5.805714641298566,
+        7.075718470982142
+      ],
+      "position": [
+        127.00000831059046,
+        29.078571929250444,
+        -118.29142570495604
+      ]
+    },
+    {
+      "index": 44,
+      "nodeName": "tgt_a.001",
+      "meshName": "tgt_a_mesh.001",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        27.432000160217285,
+        3.2512000799179077,
+        -61.56959915161133
+      ],
+      "triangleCount": 8,
+      "size": [
+        7.07571165902274,
+        5.805714641298566,
+        7.075718470982142
+      ],
+      "position": [
+        127.00000831059046,
+        29.078571929250444,
+        -118.29142570495604
+      ]
+    },
+    {
+      "index": 45,
+      "nodeName": "tgt_a.002",
+      "meshName": "tgt_a_mesh.002",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        27.22879981994629,
+        3.2512000799179077,
+        -59.74079895019531
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        5.805714641298566,
+        5.805724007742745
+      ],
+      "position": [
+        126.27429280962261,
+        29.078571929250444,
+        -111.75999641418456
+      ]
+    },
+    {
+      "index": 46,
+      "nodeName": "tgt_a.002",
+      "meshName": "tgt_a_mesh.002",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        27.22879981994629,
+        3.2512000799179077,
+        -59.74079895019531
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        5.805714641298566,
+        5.805724007742745
+      ],
+      "position": [
+        126.27429280962261,
+        29.078571929250444,
+        -111.75999641418456
+      ]
+    },
+    {
+      "index": 47,
+      "nodeName": "tgt_a.003",
+      "meshName": "tgt_a_mesh.003",
+      "primitive": 0,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        33.32480049133301,
+        1.3969999700784683,
+        -60.78219985961914
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        7.07571410707065,
+        7.075718470982142
+      ],
+      "position": [
+        148.0457237788609,
+        22.456428679823873,
+        -115.4792853764125
+      ]
+    },
+    {
+      "index": 48,
+      "nodeName": "tgt_a.003",
+      "meshName": "tgt_a_mesh.003",
+      "primitive": 1,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        33.32480049133301,
+        1.3969999700784683,
+        -60.78219985961914
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        7.07571410707065,
+        7.075718470982142
+      ],
+      "position": [
+        148.0457237788609,
+        22.456428679823873,
+        -115.4792853764125
+      ]
+    },
+    {
+      "index": 49,
+      "nodeName": "tgt_a.004",
+      "meshName": "tgt_a_mesh.004",
+      "primitive": 0,
+      "material": 21,
+      "materialName": "MLTRYCRTETP",
+      "imageIndex": 21,
+      "centerMeters": [
+        31.29279899597168,
+        3.2512000799179077,
+        -63.804800033569336
+      ],
+      "triangleCount": 4,
+      "size": [
+        5.805710383823939,
+        5.805714641298566,
+        5.805710383823939
+      ],
+      "position": [
+        140.78857558114186,
+        29.078571929250444,
+        -126.27428599766323
+      ]
+    },
+    {
+      "index": 50,
+      "nodeName": "tgt_a.004",
+      "meshName": "tgt_a_mesh.004",
+      "primitive": 1,
+      "material": 31,
+      "materialName": "MLTRYCRTESD2",
+      "imageIndex": 31,
+      "centerMeters": [
+        31.29279899597168,
+        3.2512000799179077,
+        -63.804800033569336
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.805710383823939,
+        5.805714641298566,
+        5.805710383823939
+      ],
+      "position": [
+        140.78857558114186,
+        29.078571929250444,
+        -126.27428599766323
+      ]
+    },
+    {
+      "index": 51,
+      "nodeName": "func_illusionary_4",
+      "meshName": "func_illusionary_4_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -50.39360046386719,
+        4.267199993133545,
+        -29.362399101257324
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257189069475446,
+        0.36285604749407085,
+        0.7257120949881417
+      ],
+      "position": [
+        -150.94856534685405,
+        32.70714304787772,
+        -3.265711239406045
+      ]
+    },
+    {
+      "index": 52,
+      "nodeName": "func_illusionary_5",
+      "meshName": "func_illusionary_5_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -50.40629959106445,
+        4.597399950027466,
+        -29.273499488830566
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.09070805140904017,
+        1.9957150731767925,
+        0.09071486336844307
+      ],
+      "position": [
+        -150.99391937255857,
+        33.88642860821315,
+        -2.9482126235961914
+      ]
+    },
+    {
+      "index": 53,
+      "nodeName": "func_illusionary_6",
+      "meshName": "func_illusionary_6_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        -50.39360046386719,
+        3.632200002670288,
+        -29.36240005493164
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.3628594534737723,
+        4.17285817010062,
+        0.3628594534737723
+      ],
+      "position": [
+        -150.94856534685405,
+        30.43928593908037,
+        -3.265714645385742
+      ]
+    },
+    {
+      "index": 54,
+      "nodeName": "func_illusionary_7",
+      "meshName": "func_illusionary_7_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -50.39360046386719,
+        3.0479999780654907,
+        -29.362399101257324
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257189069475446,
+        0.3628568989889962,
+        0.7257120949881417
+      ],
+      "position": [
+        -150.94856534685405,
+        28.352857279777524,
+        -3.265711239406045
+      ]
+    },
+    {
+      "index": 55,
+      "nodeName": "func_illusionary_8",
+      "meshName": "func_illusionary_8_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -27.304999351501465,
+        4.267199993133545,
+        -27.304999351501465
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.9071418217250278,
+        0.36285604749407085,
+        0.9071418217250278
+      ],
+      "position": [
+        -68.48927565983362,
+        32.70714304787772,
+        4.082145009722026
+      ]
+    },
+    {
+      "index": 56,
+      "nodeName": "func_illusionary_9",
+      "meshName": "func_illusionary_9_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -27.279600143432617,
+        4.597399950027466,
+        -27.254199981689453
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.18142972673688615,
+        1.9957150731767925,
+        0.18142972673688615
+      ],
+      "position": [
+        -68.39856420244487,
+        33.88642860821315,
+        4.263571330479209
+      ]
+    },
+    {
+      "index": 57,
+      "nodeName": "func_illusionary_10",
+      "meshName": "func_illusionary_10_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        -27.33039951324463,
+        3.632200002670288,
+        -27.33039951324463
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.5442823682512555,
+        4.17285817010062,
+        0.5442823682512555
+      ],
+      "position": [
+        -68.57999052320207,
+        30.43928593908037,
+        3.9914301463535793
+      ]
+    },
+    {
+      "index": 58,
+      "nodeName": "func_illusionary_11",
+      "meshName": "func_illusionary_11_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -27.304999351501465,
+        3.0479999780654907,
+        -27.304999351501465
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.9071418217250278,
+        0.3628568989889962,
+        0.9071418217250278
+      ],
+      "position": [
+        -68.48927565983362,
+        28.352857279777524,
+        4.082145009722026
+      ]
+    },
+    {
+      "index": 59,
+      "nodeName": "func_illusionary_12",
+      "meshName": "func_illusionary_12_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -23.774399757385254,
+        0.20320000499486923,
+        -38.91279983520508
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257120949881417,
+        0.3628571650811604,
+        0.7257189069475446
+      ],
+      "position": [
+        -55.87999139513288,
+        18.192857375953878,
+        -37.37428528921946
+      ]
+    },
+    {
+      "index": 60,
+      "nodeName": "func_illusionary_13",
+      "meshName": "func_illusionary_13_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -23.761699676513672,
+        0.5333999991416931,
+        -39.001699447631836
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.09070805140904017,
+        1.995714221681867,
+        0.09072167532784597
+      ],
+      "position": [
+        -55.83463396344866,
+        19.37214306933539,
+        -37.69178390502928
+      ]
+    },
+    {
+      "index": 61,
+      "nodeName": "func_illusionary_14",
+      "meshName": "func_illusionary_14_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        -23.774399757385254,
+        -0.43180001527071,
+        -38.91279983520508
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.3628526415143694,
+        4.172857265387262,
+        0.3628594534737723
+      ],
+      "position": [
+        -55.87999139513288,
+        15.925000160719666,
+        -37.37428528921946
+      ]
+    },
+    {
+      "index": 62,
+      "nodeName": "func_illusionary_15",
+      "meshName": "func_illusionary_15_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        -23.774399757385254,
+        -1.0160000026226044,
+        -38.91279983520508
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257120949881417,
+        0.36285711186272757,
+        0.7257189069475446
+      ],
+      "position": [
+        -55.87999139513288,
+        13.838571634462902,
+        -37.37428528921946
+      ]
+    },
+    {
+      "index": 63,
+      "nodeName": "func_illusionary_17",
+      "meshName": "func_illusionary_17_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        8.229599952697754,
+        -0.4572000056505203,
+        -64.1095962524414
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257120949881417,
+        0.3628572182995932,
+        0.7257189069475446
+      ],
+      "position": [
+        58.42000756944928,
+        15.834285909363201,
+        -127.36284392220632
+      ]
+    },
+    {
+      "index": 64,
+      "nodeName": "func_illusionary_18",
+      "meshName": "func_illusionary_18_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        8.242300033569336,
+        0.6095999926328659,
+        -64.1984977722168
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.09071486336844307,
+        7.257142769438879,
+        0.09070805140904017
+      ],
+      "position": [
+        58.465365001133506,
+        19.644285903232436,
+        -127.68034934997557
+      ]
+    },
+    {
+      "index": 65,
+      "nodeName": "func_illusionary_19",
+      "meshName": "func_illusionary_19_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        8.229599952697754,
+        -1.092199981212616,
+        -64.10960006713867
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.3628594534737723,
+        4.172856892858232,
+        0.3628594534737723
+      ],
+      "position": [
+        58.42000756944928,
+        13.566428853784288,
+        -127.36285754612514
+      ]
+    },
+    {
+      "index": 66,
+      "nodeName": "func_illusionary_20",
+      "meshName": "func_illusionary_20_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        8.229599952697754,
+        -1.6764000058174133,
+        -64.1095962524414
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257120949881417,
+        0.3628573247364589,
+        0.7257189069475446
+      ],
+      "position": [
+        58.42000756944928,
+        11.480000194481441,
+        -127.36284392220632
+      ]
+    },
+    {
+      "index": 67,
+      "nodeName": "func_illusionary_21",
+      "meshName": "func_illusionary_21_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        13.10640001296997,
+        2.794000029563904,
+        -13.004799842834473
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257155009678431,
+        0.3628568989889962,
+        0.7257120949881417
+      ],
+      "position": [
+        75.83715064185006,
+        27.445714606557573,
+        55.15428611210414
+      ]
+    },
+    {
+      "index": 68,
+      "nodeName": "func_illusionary_22",
+      "meshName": "func_illusionary_22_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        13.017499923706055,
+        3.86080002784729,
+        -13.017499923706055
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.09071486336844307,
+        7.257143088749476,
+        0.09071486336844307
+      ],
+      "position": [
+        75.51965032305036,
+        31.255714600426806,
+        55.108928680419915
+      ]
+    },
+    {
+      "index": 69,
+      "nodeName": "func_illusionary_23",
+      "meshName": "func_illusionary_23_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        13.10640001296997,
+        2.159000039100647,
+        -13.004799842834473
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.36285604749407085,
+        4.172857318605695,
+        0.3628594534737723
+      ],
+      "position": [
+        75.83715064185006,
+        25.177857497760225,
+        55.15428611210414
+      ]
+    },
+    {
+      "index": 70,
+      "nodeName": "func_illusionary_24",
+      "meshName": "func_illusionary_24_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        13.10640001296997,
+        1.5747999548912048,
+        -13.004799842834473
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257155009678431,
+        0.3628573247364589,
+        0.7257120949881417
+      ],
+      "position": [
+        75.83715064185006,
+        23.091428625583646,
+        55.15428611210414
+      ]
+    },
+    {
+      "index": 71,
+      "nodeName": "func_illusionary_25",
+      "meshName": "func_illusionary_25_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        32.61359977722168,
+        -1.2699999809265137,
+        -3.657599925994873
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257052830287388,
+        0.3628568989889962,
+        0.7257137979779924
+      ],
+      "position": [
+        145.5057212284633,
+        12.931428854806082,
+        88.53714295795984
+      ]
+    },
+    {
+      "index": 72,
+      "nodeName": "func_illusionary_26",
+      "meshName": "func_illusionary_26_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        32.52470016479492,
+        -0.20320001244544983,
+        -3.6702998876571655
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.09070805140904017,
+        7.257142875875745,
+        0.09071401187351771
+      ],
+      "position": [
+        145.18822261265345,
+        16.74142874223845,
+        88.4917859520231
+      ]
+    },
+    {
+      "index": 73,
+      "nodeName": "func_illusionary_27",
+      "meshName": "func_illusionary_27_mesh",
+      "primitive": 0,
+      "material": 33,
+      "materialName": "+0~FIFTIES_LGT2",
+      "imageIndex": 33,
+      "centerMeters": [
+        32.61359977722168,
+        -1.9049999117851257,
+        -3.657599925994873
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.36284582955496647,
+        4.172856892858232,
+        0.36285775048392155
+      ],
+      "position": [
+        145.5057212284633,
+        10.663571958882468,
+        88.53714295795984
+      ]
+    },
+    {
+      "index": 74,
+      "nodeName": "func_illusionary_28",
+      "meshName": "func_illusionary_28_mesh",
+      "primitive": 0,
+      "material": 32,
+      "materialName": "GENERIC011",
+      "imageIndex": 32,
+      "centerMeters": [
+        32.61359977722168,
+        -2.489199995994568,
+        -3.657599925994873
+      ],
+      "triangleCount": 12,
+      "size": [
+        0.7257052830287388,
+        0.3628568989889962,
+        0.7257137979779924
+      ],
+      "position": [
+        145.5057212284633,
+        8.577143086705888,
+        88.53714295795984
+      ]
+    },
+    {
+      "index": 75,
+      "nodeName": "func_illusionary_32",
+      "meshName": "func_illusionary_32_mesh",
+      "primitive": 0,
+      "material": 1,
+      "materialName": "-0CSSANDWALL",
+      "imageIndex": 1,
+      "centerMeters": [
+        -33.324798583984375,
+        5.087747097015381,
+        -66.4781494140625
+      ],
+      "triangleCount": 16,
+      "size": [
+        4.354286193847656,
+        7.3124783379690985,
+        7.102911812918526
+      ],
+      "position": [
+        -89.98855863298687,
+        35.637668418884275,
+        -135.82196235656738
+      ]
+    },
+    {
+      "index": 76,
+      "nodeName": "func_illusionary_33",
+      "meshName": "func_illusionary_33_mesh",
+      "primitive": 0,
+      "material": 1,
+      "materialName": "-0CSSANDWALL",
+      "imageIndex": 1,
+      "centerMeters": [
+        -33.324798583984375,
+        4.673600077629089,
+        -68.57999801635742
+      ],
+      "triangleCount": 8,
+      "size": [
+        5.0800051007952005,
+        7.9828577382223935,
+        6.53144291469029
+      ],
+      "position": [
+        -89.98855863298687,
+        34.15857192107609,
+        -143.32856450762068
+      ]
+    },
+    {
+      "index": 77,
+      "nodeName": "func_illusionary_34",
+      "meshName": "func_illusionary_34_mesh",
+      "primitive": 0,
+      "material": 1,
+      "materialName": "-0CSSANDWALL",
+      "imageIndex": 1,
+      "centerMeters": [
+        -30.670754432678223,
+        3.304539918899536,
+        -66.92417526245117
+      ],
+      "triangleCount": 16,
+      "size": [
+        3.7174701690673824,
+        3.312885761260986,
+        3.77554212297712
+      ],
+      "position": [
+        -80.5098295211792,
+        29.26907135418483,
+        -137.41491181509832
+      ]
+    },
+    {
+      "index": 78,
+      "nodeName": "func_illusionary_35",
+      "meshName": "func_illusionary_35_mesh",
+      "primitive": 0,
+      "material": 1,
+      "materialName": "-0CSSANDWALL",
+      "imageIndex": 1,
+      "centerMeters": [
+        -32.054800033569336,
+        3.3491169214248657,
+        -66.8400993347168
+      ],
+      "triangleCount": 8,
+      "size": [
+        3.265721457345145,
+        2.929163830620902,
+        2.812167576381138
+      ],
+      "position": [
+        -85.45284952436174,
+        29.428274934632434,
+        -137.11464064461842
+      ]
+    }
+  ]
+}

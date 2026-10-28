@@ -1,0 +1,40 @@
+Job started on "2026-10-28T06:43:52.7714344-03:00"
+Loading map from C:\Users\Noxi-PC\Desktop\CS16_Assets\maps\de_dust2.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.043
+Decompiling map using Tree strategy
+Applying NULL to generated faces
+Merging brushes
+Optimizing for texture placement
+brush size: <-2848. -1696. -352> to <2080. 3968. 672>
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+texturing brushes
+2727 brushes
+1115 brushes merged
+converting brushes to map brushes
+1612 brushes
+1624 map brushes
+30 clip brushes
+Time elapsed: 00.00:00:01.269
+Writing C:\Users\Noxi-PC\Desktop\CS16_Assets\maps\de_dust2.map
+Time elapsed: 00.00:00:01.373
+Writing C:\Users\Noxi-PC\Desktop\CS16_Assets\maps\de_dust2_generated.wad
+Adding texture -0SandRock2
+Adding texture -1SandRock2
+Adding texture -2SandRock2
+Adding texture csSandWallBTA
+Adding texture csSandWallBTB
+Adding texture csSandWallDJ1
+Adding texture csSandWallGH1a
+Adding texture csSandWallGH1b
+Adding texture djCredit1
+Adding texture djCredit2
+Adding texture SandCCrete2
+Adding texture SandWllDoorBTA
+Adding texture SandWllDoorBTb
+Adding texture SandWllDoorDJ1
+Adding texture SandWllDoorDJ2
+Added 15 textures
+Time elapsed: 00.00:00:01.381
+Total time elapsed: 00.00:00:01.382

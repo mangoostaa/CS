@@ -1,0 +1,310 @@
+[
+  {
+    "name": "+0~fifties_lgt2",
+    "width": 16,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "0f58ad68cb739cb2c9961afb46901610e1323282010aa66756b8ab84f92a7983"
+  },
+  {
+    "name": "+a~fifties_lgt2",
+    "width": 16,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "b1e79c0fc6c2e22bef2974b16f2456117d83cebccffb823c7444c79a433458d9"
+  },
+  {
+    "name": "aaatrigger",
+    "width": 16,
+    "height": 16,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "f355e556ca3a3cc8cc3e63644feb2c8e420e78ae3c1b372344cdfbd8f21f291e"
+  },
+  {
+    "name": "black",
+    "width": 32,
+    "height": 32,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "7953391e0eb54235d7b781cf463f14e1f6d3733b87c7818205f1960a9b5f1c31"
+  },
+  {
+    "name": "clip",
+    "width": 16,
+    "height": 16,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "bb801c0f4149d46769e24332872477cb74ce25dd58afe1c62e9140cb994ea3d9"
+  },
+  {
+    "name": "generic011",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "ddd56750f74e0d737a6d490421c4fcd243d7e9e527258072ffbcc8b85e40592e"
+  },
+  {
+    "name": "sky",
+    "width": 16,
+    "height": 16,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "0e65fa88d6da1f7944a6eedc2dc003fb0327478e860f31311508f354e32ef9b6"
+  },
+  {
+    "name": "white",
+    "width": 32,
+    "height": 32,
+    "source": "C:\\Games\\Counter-Strike 1.6\\valve\\halflife.wad",
+    "sha256": "0c77a1c6e7072fcf59980384d8bb82443b5b9c72f30859865df97c0dfea0008c"
+  },
+  {
+    "name": "-0SandRock2",
+    "width": 128,
+    "height": 256,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "7b1451d44001771bee9fdf9e42f15fa4c0c35dbc62d7bcf33ee7e7cd7c719541"
+  },
+  {
+    "name": "-1SandRock2",
+    "width": 128,
+    "height": 256,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "9409bb62494a53ddd6f6ec2993db7d57229f9be432ec21579951597120c2aaba"
+  },
+  {
+    "name": "-2SandRock2",
+    "width": 128,
+    "height": 256,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "f8787beba72fd823f3ba1f0f0caa1569276cf0738c9979d769eb9736d6c28fb7"
+  },
+  {
+    "name": "csSandWallBTA",
+    "width": 128,
+    "height": 240,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "2cbb9e1fb9a0b6b9c1d21b526ce813993fdff6bab0895ff6249e960068962dbd"
+  },
+  {
+    "name": "csSandWallBTB",
+    "width": 128,
+    "height": 240,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "edd0d501ac45be855d3e478410085e0dfcab813b1d06cedf26d49c080e16b4f7"
+  },
+  {
+    "name": "csSandWallDJ1",
+    "width": 256,
+    "height": 240,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "06de738abb994b64f09f8db2b4cc27730cd3812042cde16d2b4d15a85c390e9b"
+  },
+  {
+    "name": "csSandWallGH1a",
+    "width": 256,
+    "height": 96,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "a95b32b522a892828d62d0a3217631ced6b24de3680e43d647a1ebaa3e4b8067"
+  },
+  {
+    "name": "csSandWallGH1b",
+    "width": 256,
+    "height": 96,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "327ab7de5aab7685b1e0ad4e7a7c3c22511b68d76df11008c9d42f00c99e8e0c"
+  },
+  {
+    "name": "djCredit1",
+    "width": 256,
+    "height": 256,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "3000cc7846b3612b76e7b04e3fa0db4abb6f32cf080cd867f409b55b707626f4"
+  },
+  {
+    "name": "djCredit2",
+    "width": 256,
+    "height": 128,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "cd72896abf965c5428bbe68d4eb00abca99dacbcf355465abaa002cb34b4c8d4"
+  },
+  {
+    "name": "SandCCrete2",
+    "width": 256,
+    "height": 192,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "0cbc2adc12890144d2565a9436e9201224c933b42e6fcdb5b29a93698fc9a29f"
+  },
+  {
+    "name": "SandWllDoorBTA",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "473a3bd4ad5614c06ac845db06cb326a1fa89aace9dc7afc7387b025a7510be9"
+  },
+  {
+    "name": "SandWllDoorBTb",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "4ef5e23d6af653c62510d22e6890f4bf98e927a6c2f4978e2b979de6231dcbe9"
+  },
+  {
+    "name": "SandWllDoorDJ1",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "3165c45d9657fe41b2302929e677e48932abc204adca34af864deba36defde54"
+  },
+  {
+    "name": "SandWllDoorDJ2",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+    "sha256": "8d749dfa71ecbfb74437513eb315ba2ef2bb12912fbaf18249c808eb3dd5aa3d"
+  },
+  {
+    "name": "-0csSandWall",
+    "width": 128,
+    "height": 240,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "9c1969b4bb5a3a858f8963a204fd0b028f282c3efc0ca4accf813c57ee47e768"
+  },
+  {
+    "name": "-0Sand",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "ac7fceaa7b621f263ce0f13df696cd2aff41e2b2de349802e4383571d3c83023"
+  },
+  {
+    "name": "-1csSandWall",
+    "width": 128,
+    "height": 240,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "725f452f900f52cee038881615ba2df37d836081e3552f098e030f4053f1cc07"
+  },
+  {
+    "name": "-1Sand",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "1dae87630abe56fef71c60774fc041c76bd90b2d08d77364f9a4b66415b890c7"
+  },
+  {
+    "name": "-2Sand",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "d08fef64cc7b514261b72504da9b879a60b1f25762af857a00b564cc05e32726"
+  },
+  {
+    "name": "-3Sand",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "b62855c35b403ab0837923904ce86212c4d2d0bb914cc45a05ba4ea179d65cb4"
+  },
+  {
+    "name": "MltryCrteSd",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "09be77f3bb903fc96d0ccf1337b2cd2648261087ab40332bce6550efafa12f11"
+  },
+  {
+    "name": "MltryCrteSd2",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "2113ba4f7a279b14bae805911d9d11ed95136ec8ed361eb87e57f3d37ddf1b4d"
+  },
+  {
+    "name": "MltryCrteTp",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "e9abe4d9c631c124721b10fb6b705dca60d868daae07b812ee9a707f15d5e7e6"
+  },
+  {
+    "name": "SandCCrete",
+    "width": 256,
+    "height": 192,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "cfe49f5daed9bb6fa1593484438f659aa593332b6cc9679fae7d0334aa3d0086"
+  },
+  {
+    "name": "SandCrtLrgSd",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "a668e025103196dd52fe184fc4811a3c221703e5417957bd00b39bd62897c33a"
+  },
+  {
+    "name": "SandCrtLrgTp",
+    "width": 128,
+    "height": 128,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "59679a9d324f73355810fc8a72eaf51d14314230cbd0fc327f6a2195fdceb278"
+  },
+  {
+    "name": "SandCrtSmSd",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "ecc601cd754b03bf3d642c8ad21a647c5994cfeeddea0d9e29912b923de51dfa"
+  },
+  {
+    "name": "SandCrtSmTp",
+    "width": 64,
+    "height": 64,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "48655c25eb938cd1340b5eef6a9dbb9275f9299176f752d76d851ecd6c47666e"
+  },
+  {
+    "name": "SandRoad",
+    "width": 256,
+    "height": 256,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "c14a3ae10481477195cb111a76154b2e457ea1c2e586bb4de347e9bc6262ba58"
+  },
+  {
+    "name": "SandRoadTgtA",
+    "width": 256,
+    "height": 256,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "d7dfce201e9809383a40dc03e35860e4de5fdc0e062b1fcd1f911b0f49a8da22"
+  },
+  {
+    "name": "SandRoadTgtB",
+    "width": 256,
+    "height": 256,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "a5bd66c2a7b06a944e70174594bc6e35459c59a5b0a1f30f0579f67400f623c7"
+  },
+  {
+    "name": "SandTrim",
+    "width": 96,
+    "height": 32,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "cb547adb5227ecc6714dbea60e01b41f95ed23275690a88d3cde6fc01d56ff00"
+  },
+  {
+    "name": "SandWllDoor",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "acf6010057902077fba72ccc7febb987300f8b8ec9b3682cfd0ef1ad7d4b3288"
+  },
+  {
+    "name": "SandWllDoor2",
+    "width": 192,
+    "height": 160,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "09bef0d0e78c5d32ee6e4dc85fdf99ec6d85555b62e669cac955d2511d37710f"
+  },
+  {
+    "name": "SandWllWndw",
+    "width": 128,
+    "height": 240,
+    "source": "C:\\Games\\Counter-Strike 1.6\\cstrike\\cs_dust.wad",
+    "sha256": "7f06f2724854f4c1f6980728c4774ecb6e3a30d28eb640597c421d4e475e96e6"
+  }
+]

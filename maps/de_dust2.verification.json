@@ -1,0 +1,12 @@
+{
+  "source": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2.map",
+  "vmf": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2.vmf",
+  "solids": 1624,
+  "sides": 9990,
+  "entities": 100,
+  "uniqueIds": 11715,
+  "stablePlanePoints": 9990,
+  "maxNormalError": 8.5340866E-07,
+  "maxPlaneDistanceError": 0.0012207031,
+  "parsedAndVerified": true
+}

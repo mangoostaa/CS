@@ -1,0 +1,452 @@
+{
+  "complete_wad": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\gfx\\env\\dust2.wad",
+  "generated_wad": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\maps\\de_dust2_generated.wad",
+  "method": "WAD palette -> TGA -> uncompressed RGBA8888 VTF -> VTFCmd PNG -> crop padding",
+  "tool": "C:\\Users\\Noxi-PC\\Downloads\\CS16-Tools\\vtflib132-bin\\bin\\x64\\VTFCmd.exe",
+  "output": "C:\\Users\\Noxi-PC\\Desktop\\CS16_Assets\\textures\\png",
+  "texture_count": 44,
+  "generated_wad_texture_count": 15,
+  "dimensions_and_rgba_pixels_verified": true,
+  "textures": [
+    {
+      "name": "+0~fifties_lgt2",
+      "file": "+0~fifties_lgt2.png",
+      "width": 16,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "c67713c6a8b93c10fd9859dd4f73f9646cf51d56c014c1b045c15e96930a66e7",
+      "original_pixel_sha256": "584afd57235f0f50303234437fdbe34fe52b1b9519ce07103cac0033c21e0599",
+      "pixels_verified": true
+    },
+    {
+      "name": "+a~fifties_lgt2",
+      "file": "+a~fifties_lgt2.png",
+      "width": 16,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "708b8568b068d1d600c7539f2ccac5bde8d7b0ea28be919cacd721f393a6c0b4",
+      "original_pixel_sha256": "7fb8665cdedc98d6478f085dc6492ab1c3e48bb3cb94483b5c045ae79e28c046",
+      "pixels_verified": true
+    },
+    {
+      "name": "aaatrigger",
+      "file": "aaatrigger.png",
+      "width": 16,
+      "height": 16,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "3a1a05de7184ffa3c85a58c891dd4e802742873e6aee5cb21fc3af580ca11a3a",
+      "original_pixel_sha256": "0954935d5c2ed5b38ed5c9155a8d3f9ac3a7f4b905f5d58be2a5b2bd236c7e1f",
+      "pixels_verified": true
+    },
+    {
+      "name": "black",
+      "file": "black.png",
+      "width": 32,
+      "height": 32,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "3ca197dd2db6eec8763db0e2b8c0cf10d9965a49dad142b598f2c81200fd072a",
+      "original_pixel_sha256": "df894663e850afa3619ed3d3825d9d1c6520f15fcd76aac25c4407c405fa8cfe",
+      "pixels_verified": true
+    },
+    {
+      "name": "clip",
+      "file": "clip.png",
+      "width": 16,
+      "height": 16,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "54acfd9018b0dae33426e2874c50f68c04c0d0be6038966493004a52ae06082c",
+      "original_pixel_sha256": "1a23dd806d481c9e58b4d733f0ee06d35460339f01ed96f4e204dbb71b30b6bf",
+      "pixels_verified": true
+    },
+    {
+      "name": "generic011",
+      "file": "generic011.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "711c13d71cb2151e263947e0d6f3c009ab699cffb17560d59a3064c01d52dd13",
+      "original_pixel_sha256": "19b0a1bc6fa17e9571fa1331190c3d1084bf2b3c6c69650306bb866c1dc841cb",
+      "pixels_verified": true
+    },
+    {
+      "name": "sky",
+      "file": "sky.png",
+      "width": 16,
+      "height": 16,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "4e672644d53ab772fff41abf12e4f8a14e9f56ffc90d4c20282939262c64b587",
+      "original_pixel_sha256": "01d1b3db3dba1ff2f494d2c148f18aa62ae03db4c56c85369c2cf606a79caac2",
+      "pixels_verified": true
+    },
+    {
+      "name": "white",
+      "file": "white.png",
+      "width": 32,
+      "height": 32,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "bca39d8ba477b3fbb6962bb4a74398d18eaf1b249adc920ee300ac4e4968f832",
+      "original_pixel_sha256": "f47a8ec3e9aff2318d896942282ad4fe37d6391c82914f54a5da8a37de1300c6",
+      "pixels_verified": true
+    },
+    {
+      "name": "-0SandRock2",
+      "file": "-0SandRock2.png",
+      "width": 128,
+      "height": 256,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "6450e1c79f7d04e41d6921270901df34857b769ee8915b1e68948f0d1b9f8a89",
+      "original_pixel_sha256": "8507e18dbaf7add15ac8d1b3f734a372ce154ef5de66322b5ae2609adbd2fdb4",
+      "pixels_verified": true
+    },
+    {
+      "name": "-1SandRock2",
+      "file": "-1SandRock2.png",
+      "width": 128,
+      "height": 256,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "4f255d1e9156c24e282b60dc8be3588a59cac116dad126c69e0e7c786e4e32b5",
+      "original_pixel_sha256": "e5afddc775dedec0d9c05111e914c9ef3afa3319c9dceca14e09d379c013f4c8",
+      "pixels_verified": true
+    },
+    {
+      "name": "-2SandRock2",
+      "file": "-2SandRock2.png",
+      "width": 128,
+      "height": 256,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "38c6462cdecb15c1be58a3b4eb2b54cb2b7e495e83c8a25de9fa1245598a0380",
+      "original_pixel_sha256": "69482fa9f828e039c4fb6118beb91ec4c9d24d625a47ef285707b77e68225ca5",
+      "pixels_verified": true
+    },
+    {
+      "name": "csSandWallBTA",
+      "file": "csSandWallBTA.png",
+      "width": 128,
+      "height": 240,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "2e94ecc4304a888bdaf902edc4f80c3ace111ff4aa62a1a63f00da85fb4ec1d8",
+      "original_pixel_sha256": "ab437603616ab08505d59a98bf9ca7337e659774e4845ed6e90e5bbdf20fac5a",
+      "pixels_verified": true
+    },
+    {
+      "name": "csSandWallBTB",
+      "file": "csSandWallBTB.png",
+      "width": 128,
+      "height": 240,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "1e036d25495966c02faa7709989c083e9dbddf32da4f0615d3cce2084e7a3946",
+      "original_pixel_sha256": "76353e7ebcf814bab4d95344ed4d55b532d67d03edbc123ae6c0ed67e0d928ea",
+      "pixels_verified": true
+    },
+    {
+      "name": "csSandWallDJ1",
+      "file": "csSandWallDJ1.png",
+      "width": 256,
+      "height": 240,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "c2a3e3b487ab5b7d79e5bd99583193813a5cb9227f7207390ed7ab600a4a8d94",
+      "original_pixel_sha256": "0f87b55655b7824328ba67308040d364e0763f35248d29dbedcc1dcd6188d3fc",
+      "pixels_verified": true
+    },
+    {
+      "name": "csSandWallGH1a",
+      "file": "csSandWallGH1a.png",
+      "width": 256,
+      "height": 96,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "2acfe465ce987d5abf7b4c0898fcc1f666225e77c047452052220d9865a0c06a",
+      "original_pixel_sha256": "eedb42c0abf5023788c72d624eec92450d8e51cc8be71c99a7e8564445a515ed",
+      "pixels_verified": true
+    },
+    {
+      "name": "csSandWallGH1b",
+      "file": "csSandWallGH1b.png",
+      "width": 256,
+      "height": 96,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "40e05cf194d67055f79fe5efc55d756a226c7cc26845d8501596087cad09859f",
+      "original_pixel_sha256": "f4d416f6ead6896c9d51344b19e8f308fe08107b073fc8d250a8684542ecb99a",
+      "pixels_verified": true
+    },
+    {
+      "name": "djCredit1",
+      "file": "djCredit1.png",
+      "width": 256,
+      "height": 256,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "7f63f6d3ab9bc500d6fc8fbd23bb4fb944cf628de95ee9102451209dc82a88e2",
+      "original_pixel_sha256": "b722ac7de6712e59bd3aff50a7a0f9f776104d2ddcc7efdf6e4684f0c1705477",
+      "pixels_verified": true
+    },
+    {
+      "name": "djCredit2",
+      "file": "djCredit2.png",
+      "width": 256,
+      "height": 128,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "7bb1cab2ff9cb9c65af6f8e7242738b9f8a2b66bf10c3a5fd63d2293d20d54dc",
+      "original_pixel_sha256": "45a56177156029546aa14fb1c3d8922dccc9533d24e736b94e978c9cc030df54",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCCrete2",
+      "file": "SandCCrete2.png",
+      "width": 256,
+      "height": 192,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "e45245c31b83627dbd626c04c25e65310ac35c7392bc58fc6723a880425d9d44",
+      "original_pixel_sha256": "4f6f1281590d09b16cbf2eabc5bf008dc8e0aed892ade309dffa84825b5ef0f8",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoorBTA",
+      "file": "SandWllDoorBTA.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "3c35b3cd27cc5ce5900c468b58a0b46753ddd73e9272a58b55bec8ad37e66e5e",
+      "original_pixel_sha256": "a220183945f2899ae36342c3419103562751ddf7a58fb6be4d82dbebe7d03717",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoorBTb",
+      "file": "SandWllDoorBTb.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "ee8bd31a40ed0e0254e773ffdcfb280cc8037b0aaf3487ba6c8d072ffe25ba53",
+      "original_pixel_sha256": "53d934605d063f70a1a7961029472a3c981e941727144f244810312d721a5d74",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoorDJ1",
+      "file": "SandWllDoorDJ1.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "31259a65121a8df11ff4d00d57e05e81afa9fb07b43e13217f09f2827d9e7041",
+      "original_pixel_sha256": "d7a03986aacfd244732afdae197c1e3041ee1adf791d50b86e1928604042ffaf",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoorDJ2",
+      "file": "SandWllDoorDJ2.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": true,
+      "sha256": "a6165916fa94629db7648e0a2baa284e6cc70ca8945ee3fc14b52d835903779b",
+      "original_pixel_sha256": "dfe9db1fd0f88cebc8422088a781c62ce51688f8588076bffcc775f9e4bd3ad9",
+      "pixels_verified": true
+    },
+    {
+      "name": "-0csSandWall",
+      "file": "-0csSandWall.png",
+      "width": 128,
+      "height": 240,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "091b4fb80b7cd8a1b3e3e58499d7b2c26e49a62ea6ffbf1d8278823479bce5e8",
+      "original_pixel_sha256": "60c4c6db6ea816e90c2dfb549746419be6e58e887ee7b03a4a63b848c446df6f",
+      "pixels_verified": true
+    },
+    {
+      "name": "-0Sand",
+      "file": "-0Sand.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "d8f1ae58889392db25a8e637d771f07d4b4c0b2460a99577479d959134d37fbc",
+      "original_pixel_sha256": "753114b29352d4f07c34a058875a1c5416f4df17b05c849f872ea71e0151e991",
+      "pixels_verified": true
+    },
+    {
+      "name": "-1csSandWall",
+      "file": "-1csSandWall.png",
+      "width": 128,
+      "height": 240,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "d3bab180c05dde73cc3effe87087ea534d4bb64acb354419b8d2a83c6890015a",
+      "original_pixel_sha256": "94cf67b93dec47f6a4c5348a8eb78d69e20de5b6de3b2e067193d2c6dede2925",
+      "pixels_verified": true
+    },
+    {
+      "name": "-1Sand",
+      "file": "-1Sand.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "d63bd94fbab33533b3073bb4ee85132a20c9494424e7e1252db37b436baaff1c",
+      "original_pixel_sha256": "25164a96cfb3c8050de0d51e2112d033e9589f62e61ec50588b4acc714fb020d",
+      "pixels_verified": true
+    },
+    {
+      "name": "-2Sand",
+      "file": "-2Sand.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "1d607004e7cea7be26139d6c5175bb73f61779fff52f28ff26c7c3aba2b54d4a",
+      "original_pixel_sha256": "8d619d51d3a72f43e3f173487863f49d8fe6ae849cf31d9b1380d15df834c521",
+      "pixels_verified": true
+    },
+    {
+      "name": "-3Sand",
+      "file": "-3Sand.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "cd0bb4d0f30ba7e8cfe715742ff2da9157ca1b010ed2863b0cfa295dbd3cecb1",
+      "original_pixel_sha256": "3781967c1673872ac03b4eca2792a992976d4dd7c333caa57133493e36dc6c7c",
+      "pixels_verified": true
+    },
+    {
+      "name": "MltryCrteSd",
+      "file": "MltryCrteSd.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "723fbdbc059cd49355a692a941f60829c8630e6e9bf2cb7dee3564f9528eab6d",
+      "original_pixel_sha256": "a381f601d4ffeb3c64d70fe5d61df49724ad195425834749b72fca55fc61e0a5",
+      "pixels_verified": true
+    },
+    {
+      "name": "MltryCrteSd2",
+      "file": "MltryCrteSd2.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "b882b36aca670f0808bba8a2dcb4920431eaaaed943b2c01411cdc9e2662d7e5",
+      "original_pixel_sha256": "9b9611a645afa54755f3c9ceab850a2279d8b29b2034ae10bd0e7c267ddd92b7",
+      "pixels_verified": true
+    },
+    {
+      "name": "MltryCrteTp",
+      "file": "MltryCrteTp.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "8a2c166a00dcc498ad03fa74f4b2df35e2a23bba7a45041eab7070d0905a48bc",
+      "original_pixel_sha256": "488b39ee3a0a5fc155924b2a2d6aaac5b3ff87cefa2fa674ee8e0fe95c3a4633",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCCrete",
+      "file": "SandCCrete.png",
+      "width": 256,
+      "height": 192,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "5388f46a6b8371dd4242f2e2b097379c3b0cc505c1fce0764d3461a1e455d4ff",
+      "original_pixel_sha256": "752c81e77aa3c3ea6c0b037c29399dcc620a380a8a063df16e9af28857eb1d80",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCrtLrgSd",
+      "file": "SandCrtLrgSd.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "904454b2919bdb7e074f0130b68d1e1063ff5733bebcb0fb535f37ec482a83e8",
+      "original_pixel_sha256": "589e34da09d30c9ab750697aebad820faf7abffe72d69ee90a4a6ef25c8f7775",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCrtLrgTp",
+      "file": "SandCrtLrgTp.png",
+      "width": 128,
+      "height": 128,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "b32669514a9bfd49540f74b2f78e6c1353772262d01306beb04b0c182b551f84",
+      "original_pixel_sha256": "cc4141c97fa69694f3dcfda633c2eed8d46894a7db09e897f0e6b642d1cf5e69",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCrtSmSd",
+      "file": "SandCrtSmSd.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "feec7e01e3bb89a61e632013b2fb80251e594b85a0815228f2edcb3f5d960cd0",
+      "original_pixel_sha256": "4a2746f2405c2899b40c4d9ce26d021e32b23fa40bce734e6ff6d693d7dbe180",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandCrtSmTp",
+      "file": "SandCrtSmTp.png",
+      "width": 64,
+      "height": 64,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "2966912f965770c0b7438f4d9901aeed7087f59373ff26bdb37e51d0699d5609",
+      "original_pixel_sha256": "e171810de1f6274b3c4bcd7a392b7df81e03f95787fc34d8b1282a9d8006d313",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandRoad",
+      "file": "SandRoad.png",
+      "width": 256,
+      "height": 256,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "aa7e6258e044d6ac778fd565ed60b54a1dcffdb76f4b7e771cabe4115411618d",
+      "original_pixel_sha256": "dc51b2f28b4d2c38b24eefb761d16f0183d95e743e02de945a8c465486af1bdc",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandRoadTgtA",
+      "file": "SandRoadTgtA.png",
+      "width": 256,
+      "height": 256,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "a4f12a3e439be009759703d8f9c92556035074b92bfb8ca4d42be1f8390be0bc",
+      "original_pixel_sha256": "8ba422fa9fb0fa8c6d357ea084e162f6541b521386d5a8929482a29da1eb789c",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandRoadTgtB",
+      "file": "SandRoadTgtB.png",
+      "width": 256,
+      "height": 256,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "23ed23a2ed71c7e97dcd32c8c0553b10fc18554125be1b8e27919c46d38f55cb",
+      "original_pixel_sha256": "615020dc0c4c41161fc9a9e06f95cc85cc32b2ac7c4c550b959626f0fdbeee5e",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandTrim",
+      "file": "SandTrim.png",
+      "width": 96,
+      "height": 32,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "781f6539e14ca87bd5eeaf9ff32dfbd55154090086b836a4187b63111e897a2a",
+      "original_pixel_sha256": "9cc991f38e6a462570c5bd3e01ae7cb37c02503673d04fcf571731a8b2241ab5",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoor",
+      "file": "SandWllDoor.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "084eaa0d2855d833ea4ea8c27b23038b622d6b3fa8fd61cebff1ab2efe53aa6c",
+      "original_pixel_sha256": "98fe392c2168b02f7e0e3b1f3b8b07e21aa45cbea010f6d5c18386ac051a1415",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllDoor2",
+      "file": "SandWllDoor2.png",
+      "width": 192,
+      "height": 160,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "cc21f6b8e3d4a38144144f87ef382a4250db13508d9fd0638d4a82ce2a43867f",
+      "original_pixel_sha256": "a9ebcc813b7f4d45ab30f73946046cd6269a6d2de26aca723c06272f5a8db8ce",
+      "pixels_verified": true
+    },
+    {
+      "name": "SandWllWndw",
+      "file": "SandWllWndw.png",
+      "width": 128,
+      "height": 240,
+      "in_de_dust2_generated_wad": false,
+      "sha256": "01dda0c317839b71457baeb413c4b29deb3e25173e2bea441cfb16e38f42362c",
+      "original_pixel_sha256": "1ddae546da650e39ee927f0e4d72c34c38ab7000406f32499abb20adeea49182",
+      "pixels_verified": true
+    }
+  ]
+}
